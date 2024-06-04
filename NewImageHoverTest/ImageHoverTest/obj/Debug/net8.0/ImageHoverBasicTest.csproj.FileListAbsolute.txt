@@ -1,0 +1,14 @@
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\bin\Debug\net8.0\ImageHoverBasicTest.exe
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\bin\Debug\net8.0\ImageHoverBasicTest.deps.json
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\bin\Debug\net8.0\ImageHoverBasicTest.runtimeconfig.json
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\bin\Debug\net8.0\ImageHoverBasicTest.dll
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\bin\Debug\net8.0\ImageHoverBasicTest.pdb
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.AssemblyInfoInputs.cache
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.AssemblyInfo.cs
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.csproj.CoreCompileInputs.cache
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.dll
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\refint\ImageHoverBasicTest.dll
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.pdb
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ImageHoverBasicTest.genruntimeconfig.cache
+C:\Users\hwelliver\source\repos\ImageHoverTest\ImageHoverTest\obj\Debug\net8.0\ref\ImageHoverBasicTest.dll

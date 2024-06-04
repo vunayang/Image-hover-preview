@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0I6Ls4/LJEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwelliver\\OneDrive - Microsoft\\Desktop\\NewImageHoverTestSuite\\ImageHoverTest\\ImageHoverTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwelliver\\.nuget\\packages\\microsoft.visualstudio.imagecatalog\\17.9.37000\\microsoft.visualstudio.imagecatalog.17.9.37000.nupkg.sha512",
+    "C:\\Users\\hwelliver\\.nuget\\packages\\microsoft.visualstudio.imaging.interop.14.0.designtime\\17.9.37000\\microsoft.visualstudio.imaging.interop.14.0.designtime.17.9.37000.nupkg.sha512",
+    "C:\\Users\\hwelliver\\.nuget\\packages\\microsoft.visualstudio.interop\\17.9.37000\\microsoft.visualstudio.interop.17.9.37000.nupkg.sha512"
+  ],
+  "logs": []
+}
